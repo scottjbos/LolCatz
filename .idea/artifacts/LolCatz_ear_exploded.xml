@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="LolCatz:ear exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/LolCatz_ear_exploded.ear</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="LolCatz/javaeeApplication/javaEEApplication" />
+      <element id="directory" name="web.war">
+        <element id="artifact" artifact-name="LolCatz:war exploded" />
+      </element>
+    </root>
+  </artifact>
+</component>
